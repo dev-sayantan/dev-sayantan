@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Sayantan_GitHub Banner 2](https://github.com/user-attachments/assets/d7069d16-df83-4763-a76c-e4f0ce9476da)
 
 <!--
 👋 Hi I'm Sayantan Naha, a Biotechnology graduate, working as a Research Intern on Genomic Data @ Disruptive Research Engineering Assisted Design Private Limited, Kolkata, INDIA.
