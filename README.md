@@ -17,4 +17,4 @@ Overall having 1 year of remote internship experience under various startups wit
 5. 😄 Pronouns: He/Him
 6. ⚡ Fun fact : 🎼 A great tune + a great joke = an instant boost of hope! 😄
 
-[LinkedIn Profile](linkedin.com/in/sayantann) | [Web-based Resume](bold.pro/my/sayantan-naha-240923214510) | [Data Science Portfolio](https://www.datacamp.com/portfolio/sayantannaha6)
+[LinkedIn Profile](https://www.linkedin.com/in/sayantann/) | [Web-based Resume](https://bold.pro/my/sayantan-naha-240923214510) | [Data Science Portfolio](https://www.datacamp.com/portfolio/sayantannaha6)
