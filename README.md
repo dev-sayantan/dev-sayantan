@@ -10,11 +10,11 @@ Overall having 1 year of remote internship experience under various startups wit
 
 - Good Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities.
 
-🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP and also the tools, techniques of Computational Biology.
-👯 I’m looking to collaborate on written content, building communities, data science and computational biology projects.
-💬 Ask me about data science, computational biology, & how to turn setbacks into comebacks. 🚀
-📫 How to reach me: sayantannaha77@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: 🎼 "A great tune + a great joke = an instant boost of hope!" 😄
+1. 🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP and also the tools, techniques of Computational Biology.
+2. 👯 I’m looking to collaborate on written content, building communities, data science and computational biology projects.
+3. 💬 Ask me about data science, computational biology, & how to turn setbacks into comebacks. 🚀
+4. 📫 How to reach me: sayantannaha77@gmail.com
+5. 😄 Pronouns: He/Him
+6. ⚡ Fun fact : 🎼 A great tune + a great joke = an instant boost of hope! 😄
 
 [LinkedIn Profile](linkedin.com/in/sayantann) | [Web Based Resume](bold.pro/my/sayantan-naha-240923214510) | [Data Science Portfolio](https://www.datacamp.com/portfolio/sayantannaha6)
