@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**dev-sayantan/dev-sayantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi I'm Sayantan Naha, a Biotechnology graduate, working as a Research Intern on Genomic Data @ Disruptive Research Engineering Assisted Design Private Limited, Kolkata, INDIA.
+Overall having 1 year of remote internship experience under various startups with good knowledge of Python, R, SQL, MS Excel, Machine Learning, POWERBI.
 
-Here are some ideas to get you started:
+- Good understanding of statistical, and analytical techniques, I am highly motivated to learn, grow and excel in the Data Science Industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Solid understanding of exploratory data analysis using SQL, R & Python language.
+
+- Good Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities.
+
+🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP and also the tools, techniques of Computational Biology.
+👯 I’m looking to collaborate on written content, building communities, data science and computational biology projects.
+💬 Ask me about data science, computational biology, & how to turn setbacks into comebacks. 🚀
+📫 How to reach me: sayantannaha77@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: 🎼 "A great tune + a great joke = an instant boost of hope!" 😄
 -->
