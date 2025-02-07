@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Sayantan_GitHub Banner 2](https://github.com/user-attachments/assets/d7069d16-df83-4763-a76c-e4f0ce9476da)
 
-<!--👋 Hi I'm Sayantan Naha, a Biotechnology graduate, working as a Research Intern on Genomic Data @ Disruptive Research Engineering Assisted Design Private Limited, Kolkata, INDIA.
+👋 Hi I'm Sayantan Naha, a Biotechnology graduate, working as a Research Intern on Genomic Data @ Disruptive Research Engineering Assisted Design Private Limited, Kolkata, INDIA.
 Overall having 1 year of remote internship experience under various startups with good knowledge of Python, R, SQL, MS Excel, Machine Learning, POWERBI.
 
 - Good understanding of statistical, and analytical techniques, I am highly motivated to learn, grow and excel in the Data Science Industry.
@@ -15,4 +15,4 @@ Overall having 1 year of remote internship experience under various startups wit
 💬 Ask me about data science, computational biology, & how to turn setbacks into comebacks. 🚀
 📫 How to reach me: sayantannaha77@gmail.com
 😄 Pronouns: He/Him
-⚡ Fun fact: 🎼 "A great tune + a great joke = an instant boost of hope!" 😄-->
+⚡ Fun fact: 🎼 "A great tune + a great joke = an instant boost of hope!" 😄
