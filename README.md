@@ -16,3 +16,5 @@ Overall having 1 year of remote internship experience under various startups wit
 📫 How to reach me: sayantannaha77@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: 🎼 "A great tune + a great joke = an instant boost of hope!" 😄
+
+[LinkedIn Profile](linkedin.com/in/sayantann) | [Web Based Resume](bold.pro/my/sayantan-naha-240923214510) | [Data Science Portfolio](https://www.datacamp.com/portfolio/sayantannaha6)
